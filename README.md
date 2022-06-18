@@ -9,7 +9,7 @@ A pilha de tecnologias é opinativa. São as tecnologias, ferramentas e prática
 
 **Monorepo com NX**
 
-Autenticação e autorização com KeyCloak
+**Autenticação e autorização com KeyCloak**
 - OpenID Connect 
 - Papeis e permissões baseados em grupos de usuário
 - [Authentication and authorization using the keycloak REST API](https://developers.redhat.com/blog/2020/11/24/authentication-and-authorization-using-the-keycloak-rest-api#keycloak_connection_using_a_java_application) 
@@ -32,7 +32,7 @@ Autenticação e autorização com KeyCloak
 - ORM com gorm e smallnest/gen
 - Lógica e responsabilidades distribuída em pequenos serviços assíncronos (ver tópico de mensaggeria)
 
-Banco de dados com PostgreSQL
+**Banco de dados com PostgreSQL**
 - HeadlessCMS com Directus
 - Hub Graphql com Hasura
 - Base de dados analítica segregada da transacional

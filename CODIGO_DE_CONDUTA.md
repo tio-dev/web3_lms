@@ -1,7 +1,9 @@
 (traduzido automaticamente com Google Tradutor  - ainda não revisado)
 
 # Código de Conduta do Convênio do Contribuinte
-[English cersion]()
+
+[(See English Version)](CODE_OF_CONDUCT.md)
+
 ## Nosso Compromisso
 
 Nós, como membros, colaboradores e líderes, nos comprometemos a fazer a participação em nosso

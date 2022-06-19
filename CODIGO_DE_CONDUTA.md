@@ -64,7 +64,7 @@ representante em um evento online ou offline.
 
 Casos de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser
 reportado aos líderes comunitários responsáveis ​​pela fiscalização
-w3p@tio.dev.
+comunidade@tio.dev.
 Todas as reclamações serão analisadas e investigadas prontamente e de forma justa.
 
 Todos os líderes comunitários são obrigados a respeitar a privacidade e a segurança do
